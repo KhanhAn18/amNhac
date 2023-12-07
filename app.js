@@ -22,7 +22,7 @@ let  allMusic = [
     },
     {
         name: "Thiên hạ khắp bốn phương",
-        artist: "Tlovet--",
+        artist: "Tlove--",
         img: "song2",
         src: "music/song9.mp3",
         idMusic: "song2"
@@ -107,8 +107,22 @@ let  allMusic = [
     {
         name: "Kiếp má hồng",
         artist: "Tlove",
-        img: "song1",
+        img: "song2",
         src: "music/song15.mp3",
+        idMusic: "song1"
+    },
+    {
+        name: "Hoa cỏ lau",
+        artist: "Tlove",
+        img: "song4",
+        src: "music/song17.mp3",
+        idMusic: "song1"
+    },
+    {
+        name: "Quen nhau bao lâu",
+        artist: "Tlove",
+        img: "song5",
+        src: "music/song11.mp3",
         idMusic: "song1"
     },
 
